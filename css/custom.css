@@ -1,0 +1,17 @@
+.title {
+    text-align: center;
+    margin-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+.questions {
+    border: 2px solid #eee;
+    border-radius: 4px;
+    margin-top: 4rem;
+    padding: 2rem;
+}
+
+input[type="radio"]{
+    margin-right: 1rem;
+}
+
